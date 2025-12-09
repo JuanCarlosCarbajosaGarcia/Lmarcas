@@ -1,0 +1,24 @@
+a[href*=".org"]{
+        color: gold;
+        background-color: black;
+        text-align: center;
+    }
+h1{
+    color: cyan;
+    background-color: black;
+    text-align: right;
+    size: 20pt;
+}
+
+p{
+    color: red;
+    background-color: black;
+    text-align: center;
+    size: 5pt;
+}
+body{
+    background-color: bisque;
+    color: blueviolet;
+    size: 10pt;
+    text-align: justify;
+}

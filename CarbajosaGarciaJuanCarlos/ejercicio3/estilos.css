@@ -1,0 +1,31 @@
+#menu_lateral {
+    width: 200px;
+    border: 3px solid gray;
+    float: left;
+}
+#menuvertical1 a {
+    padding: 0px 25px 0px;
+    text-decoration: none;
+    display: block;
+    color: black;
+    background: lemonchiffon;
+}
+#menuvertical1 a:hover,
+#menuvertical1 a:active { background: #58fa58;}
+#menuvertical1 a:visited { color:black; }
+
+#menuvertical2 {
+    width: 200px;
+    border: 3px solid gray;
+    float: right;
+}
+#menuvertical2 a {
+    padding: 0px 25px 0px;
+    text-decoration: none;
+    display: block;
+    color: black;
+    background: pink;
+}
+#menuvertical2 a:hover,
+#menuvertical2 a:active { background: #58fa58;}
+#menuvertical2 a:visited { color:black; }

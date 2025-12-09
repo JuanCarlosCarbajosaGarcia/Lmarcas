@@ -1,0 +1,46 @@
+<continente>
+Europa
+	<pais>
+		Alemania
+			<ciudad>berlin</ciudad>
+		Austría
+			<ciudad>viena</ciudad>
+		Bélgica
+			<ciudad>bruselas</ciudad>
+		Dinamarca
+			<ciudad>copenhague</ciudad>
+	</pais>
+America
+	<pais>
+		Argentina
+			<ciudad>Buenos Aires</ciudad>
+		Costa Rica
+			<ciudad>San José</ciudad>
+		Cuba
+			<ciudad>La Habana</ciudad>
+		Estados Unidos
+			<ciudad>Washinton D.C</ciudad>
+	</pais>
+África
+	<pais>
+		Egipto
+			<ciudad>El Cairo</ciudad>
+		Kenia
+			<ciudad>Nairobi</ciudad>
+		Marruecos
+			<ciudad>Rabat</ciudad>
+		Senegal
+			<ciudad>Dakar</ciudad>
+	</pais>
+Asia
+	<pais>
+		India
+			<ciudad>Nueva Delhi</ciudad>
+		israel
+			<ciudad>Jerusalén</ciudad>
+		Filipinas
+			<ciudad>Manila</ciudad>
+		Tailandia
+			<ciudad>Bangkok</ciudad>
+	</pais>
+</continente>

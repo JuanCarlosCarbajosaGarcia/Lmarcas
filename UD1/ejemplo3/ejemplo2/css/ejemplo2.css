@@ -1,0 +1,12 @@
+body {
+            padding-left: 11em;
+            font-family: "Times New Roman";
+            color: red;
+            background-color: #d8da3d;
+    }
+h1 {font-family: Helvetica;}
+
+p {background: yellow; color: black;
+    font-family: "Comic Sans Ms";
+    border: solid blue; border-width: 0.5in;
+    }

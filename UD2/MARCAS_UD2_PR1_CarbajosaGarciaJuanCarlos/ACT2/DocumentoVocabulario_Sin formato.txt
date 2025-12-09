@@ -1,0 +1,717 @@
+Términos cogidos de esta web
+http://www.panamacom.com/glosario/
+
+
+Por la A
+
+AC-3
+Audio Codec-3. Este era el nombre técnico y original para Dolby Digital. 
+
+ACPI
+Advanced Configuration and Power Interface. Especificación de administración de recursos de energía, que permite que el sistema operativo controle la cantidad de energía distribuida a distintos periféricos. 
+
+Active X
+Un software desarrollado por Microsoft y lanzado al mercado en 1997, que permite que programas o contenido sea llevado a computadoras con Windows por medio del World Wide Web. Por ejemplo, poder abrir archivos Word o Excel directamente en el navegador. 
+
+Adobe
+Adobe Systems Incorporated es una empresa de software, fundada en 1982 por John Warnock y Charles Geschke cuando salieron de Xerox Parc. Son los creadores de PDF, y de programas como Photoshop, Illustrator, Acrobat, entre otros. 
+
+ADSL
+Línea de Subscripción Asimétrica Digital. Tecnología que mejora el ancho de banda de los hilos del cableado telefónico convencional que transporta hasta 16 Mbps (megabits por segundo) gracias a una serie de métodos de compresión. 
+
+AGP
+Accelerated Graphics Port. Es una especificación de bus que proporciona una conexión directa entre el adaptador de gráficos y la memoria. 
+
+AIFF
+(Audio Interchange File Format) formato de archivos de audio desarrollado por Apple Computer. Se utiliza para almacenar sampleos de alta calidad de audio. 
+
+Ajax
+Asynchronous JavaScript And XML. Es una técnica de desarrollo web para crear aplicaciones web interactivas. Así como DHTML, Ajax no es una tecnología en si, sino un termino que se refiere al uso de un grupo de tecnologías juntas, como son por ejemplo: XHTML (o HTML), Javascript, XMLHttpRequest entre otras. 
+
+Algoritmo
+Palabra que viene del nombre del matemático árabe Al-Khwarizmi (780 - 850 aprox.). Define el conjunto de instrucciones que sirven para ejecutar una tarea o resolver un problema. Los motores de búsqueda usan algoritmos para mostrar los resultados de búsquedas. 
+
+Alias
+Apodo o Pseudónimo. Nombre usualmente corto y fácil de recordar que se utiliza en lugar de otro nombre usualmente largo y difícil de memorizar. 
+
+AMD
+El segundo más grande fabricante de microprocesadores, después de Intel. También fabrica memorias flash y circuitos integrados para aparatos para redes, entre otros. Fue fundada en el año 1969 y ha contribuido a que los precios de las PC sean menores por su alta calidad y buenos precios. 
+
+Ancho de Banda
+Bandwidth en inglés. Cantidad de bits que pueden viajar por un medio físico (cable coaxial, par trenzado, fibra óptica, etc.) de forma que mientras mayor sea el ancho de banda más rápido se obtendrá la información. Se mide en millones de bits por segundo (Mbps). Una buena analogía es una autopista. Mientras más carriles tenga la calle, mayor cantidad de tráfico podrá transitar a mayores velocidades. El ancho de banda es un concepto muy parecido. Es la cantidad de información que puede transmitirse en una conexión durante una unidad de tiempo elegida. 
+
+ANSI
+American National Standards Institute - Instituto Nacional de Normas de Estados Unidos. 
+
+Apache
+Apache es programa de servidor HTTP Web de código abierto (open source). Fue desarrollado en 1995 y actualmente es uno de los servidores web más utilizados en la red. Usualmente corre en UNIX, Linux, BSD y Windows. 
+
+API
+Del inglés Application Programming Interface. Interfaz de Programación de Aplicaciones. Un juego de rutinas usados por una aplicación para gestionar generalmente servicios de bajo nivel, realizados por el sistema operativo de la computadora. 
+
+Applet
+Pequeña aplicación escrita en Java la cual se difunde a través de la red en orden de ejecutarse en el navegador cliente. 
+
+ASCII
+American Standard Code for Information Interchange, es unl estándar para el código utilizado por computadoras para representar todas las letras mayúsculas, minúsculas, letras latinas, números, signos de puntuación, etc. El código ASCII es de 128 letras representadas por un digito binario de 7 posiciones (7 bits), de 0000000 a 1111111, y es el estándar usado en el World Wide Web. 
+
+ASP
+Acrónimo en inglés de Active Server Pages. Páginas de Servidor Activo. Son un tipo de HTML que además de contener los códigos y etiquetas tradicionales, cuenta con programas (o scripts) que se ejecutan en un servidor Microsoft Internet Information Server antes de que se desplieguen en la pantalla del usuario. 
+
+ATA
+Advanced Technology Attachment. Interface para conectar disco duro, cdroms, etc. También conocido como IDE Soporta dos discos duros, una interface de 16bit y modos PIO 0, 1 y 2. 
+
+ATM
+Acrónimo en inglés de Asynchronous Transfer Mode. Modo de Transferencia Asincrónica. Es una tecnología de redes de alta velocidad que transmite múltiples tipos de información (voz, vídeo, datos) mediante la creación de "paquetes de datos”. 
+
+Atom
+Un protocolo para la sindicación y compartir contenido. Atom se desarrolla como un sucesor mejorado a RSS y será más complejo que RSS. Atom brindará soporte para firmas digitales, ubicación geográfica del autor y posiblemente seguridad, encripción y licencia, etc. Como RSS, Atom es una especificación basada en XML. 
+
+Avatar
+En ambientes virtuales multiusuarios de internet y en juegos, el avatar es la representación gráfica del usuario.
+ 
+
+Por la B
+
+Backbone
+La parte de la red que transporta el tráfico más denso: conecta LANs, ya sea dentro de un edificio o a través de una ciudad o región. 
+
+Backup
+Copia de Respaldo o Seguridad. Acción de copiar archivos o datos de forma que estén disponibles en caso de que un fallo produzca la perdida de los originales. Esta sencilla acción evita numerosos, y a veces irremediables, problemas si se realiza de forma habitual y periódica. 
+
+Bandwidth
+Ver Ancho de banda. 
+
+Banner
+Imagen, gráfico o texto con fines publicitarios que habitualmente enlaza con el sitio web del anunciante. 
+
+Base de datos
+Conjunto de datos que pertenecen al mismo contexto almacenados sistemáticamente. En una base de datos, la información se organiza en campos y registros. Los datos pueden aparecer en forma de texto, números, gráficos, sonido o vídeo. 
+
+
+Beta
+Es el proceso formal de solicitar información y comentarios sobre los resultados del software todavía en programación. Es la segunda parte de las pruebas que se realizan del software por los usuarios finales. 
+
+BIPS
+Con el incremento del rendimiento de las computadoras, las medidas tradicionales pierden relevancia. El MIPS (Millones de Instrucciones por Segundo), ha sido sustituido por el BIPS (Miles de Millones de Instrucciones por Segundo), que se trata de una medida aproximada de la capacidad de proceso de un sistema. 
+
+Bit
+Dígito Binario. Unidad mínima de almacenamiento de la información cuyo valor puede ser 0 ó 1 (falso o verdadero respectivamente). 
+
+Bitrate
+Término bastante utilizado al hablar de calidades de video y audio. Define cuánto (o el promedio) de espacio físico (en bits) toma un segundo de audio o video. Por ejemplo, 3 minutos de audio MP3 a 128kBit/sg CBR, toma 2,81 MegaBytes de espacio físico (1,024 x 128 / 1,024 / 1,024 x 180 / 8). en donde: 128kbit = 128 x 1024 bits 1 byte = 8 bits 1 kilobyte = 1,024 bytes 1 megabyte = 1,024 kilobytes 3 minutos = 180 segundos. Algunos ejemplos: MP3 cerca de 128 kbps (kilobits por segundo) VCD cerca de 1374 kbps DVD cerca de 4500 kbps DV cerca de 25 Mbps (megabits por segundo). 
+
+Blog
+Versión reducida del término "web log". Es información que un usuario publica de forma fácil e instantánea en un sitio web. Generalmente un blog se lee en orden cronológico 
+
+Blogosfera
+En ingles Blogosphere. La suma de todos los blogs y sitios web relacionados a blogs forman la blogosfera. Los blogs se han proliferado exponencialmente. 
+
+Bluetooth
+Estándar de transmisión de datos inalámbrico vía radiofrecuencia de corto alcance (unos 10 metros). Entre otras muchas aplicaciones, permite la comunicación entre videocámaras, celulares y computadoras que tengan este protocolo, para el intercambio de datos digitalizados (vídeo, audio, texto). 
+
+BMP
+Bit Map (mapa de bits). Formato de archivos gráficos de Windows. Es preferible usar JPG, PNG o GIF antes que BMP, ya que usualmente los archivos bitmap son mucho mas grandes en tamaño (bytes) que los otros formatos mencionados. 
+
+bps
+Bits por Segundo. Velocidad a la que se transmiten los bits en un medio de comunicación. 
+
+Browser
+Aplicación para visualizar todo tipo de información y navegar por el www con funcionalidades plenamente multimedia. Como ejemplo de navegadores tenemos Internet Explorer, Firefox y Safari. 
+
+Bug
+Término aplicado a los errores descubiertos al ejecutar cualquier programa informático. Fue usado por primera vez en el año 1945 por Grace Murray Hooper, una de las pioneras de la programación moderna, al descubrir cómo un insecto (bug en inglés) había dañado un circuito de la computadora "Mark". 
+
+Bus
+En una computadora, el bus es la ruta de data en el motherboard o tarjeta madre, que interconecta al microprocesador con extensiones adjuntas conectadas en espacios o slots de expansión, por ejemplo disco duro, CD-ROM drive y tarjetas de video. 
+
+Byte
+Conjunto de 8 bit, el cual suele representar un valor asignado a un carácter.
+
+
+
+Por la C
+
+C / C++
+C++ es un lenguaje que abarca tres paradigmas de la programación: la programación estructurada, la programación genérica y la programación orientada a objetos . C++ está considerado por muchos como el lenguaje más potente, debido a que permite trabajar tanto a alto como a bajo nivel. 
+
+Cache
+Copia que mantiene una computadora de las páginas web visitadas últimamente, de forma que si el usuario vuelve a solicitarlas, las mismas son leídas desde el disco duro sin necesidad de tener que conectarse de nuevo a la red; consiguiéndose así una mejora muy apreciable en la velocidad. 
+
+Carpeta
+Espacio del disco duro de una computadora cuya estructura jerárquica en forma de árbol contiene la información almacenada en una computadora, habitualmente en archivos y es identificado mediante un nombre (ej. "Mis documentos"). En las carpetas se puede guardar preferencias del usuario. 
+
+CBR
+Constant Bitrate (Bitrate Constante): Básicamente es un término que describe cómo es codificado el audio y el video, en donde el bitrate no varía a lo largo del clip de audio o video. 
+
+CD
+Compact Disc. Disco Compacto. Disco óptico de 12 cm de diámetro para almacenamiento binario. Su capacidad es de aprox 750 mb y puede ser usado para almacenar cualquier tipo de data, desde música, videos, divx, mp3, archivos en general, etc. 
+
+CD-R
+El CD-R es un CD que permite escritura, tiene capacidad de grabar 750 MB aprox y los datos grabados no pueden ser borrados. 
+
+CD-ROM
+Compact Disc Read only memory es un medio de almacenamiento de sólo lectura. 
+
+CD-RW
+El Compact Disc regrabable es un CD que ofrece la posibilidad de grabar y borrar información hasta 1,000 veces. 
+
+CERN
+Conseil Europeen pour la Recherche Nucleaire. Laboratorio Europeo de Física de Partículas, en Génova, Suiza. Fue donde nació el world wide web en 1991, basado en la propuesta de Tim Berners-Lee. http://www.cern.ch 
+
+Certificado Digital
+Acreditación emitida por una entidad o un particular debidamente autorizada garantizando que un determinado dato (una firma electrónica o una clave pública) pertenece realmente a quien se supone. Por ejemplo, Verisign y Thawte 
+
+CGA
+
+Color Graphics Adapter. Una de las primeras tarjetas gráficas existentes para IBM y compatibles. Permitía resoluciones de 320x200 puntos con 4 colores y de 640x200 puntos en 2 colores. En la actualidad ya no se usan. 
+
+CGI
+Common Gateway Interface. Una interfaz escrita en un lenguaje de programación (perl, c, c++,visual basic, etc) y posteriormente ejecutada o interpretada por una computadora servidor para contestar a pedidos del usuario desde una computadora con una aplicación cliente; casi siempre desde el World Wide Web. Esta interfaz permite obtener los resultados pedidos, como los que resultan al consultar una base de datos. 
+
+Chat
+Término utilizado para describir la comunicación de usuarios en tiempo real. Comunicación simultánea entre dos o más personas a través del Internet. Hasta hace poco tiempo sólo era posible la "conversación" escrita pero los avances tecnológicos ya permiten que la conversación se haga mediante audio y vídeo. 
+
+Ciber
+Ciber o Cyber. Prefijo utilizado ampliamente en la comunidad Internet para denominar conceptos relacionados con las redes (cibercultura, ciberespacio, cibernauta, etc.). Su origen proviene del griego "cibernao" que significa "pilotar una nave". 
+
+Click
+Cuando se oprime alguno de lo botones de un mouse el sonido es parecido a un "click". 
+
+Cliente
+Aplicación que permite a un usuario obtener un servicio de un servidor localizado en la red. Sistema o proceso el cual le solicita a otro sistema o proceso la prestación de un servicio. 
+
+CMS
+De las siglas del inglés Content Management System; se refiere usualmente a sitios web que tienen sistemas de administración que permiten la fácil creación y edición de contenidos, como páginas nuevas, noticias, etc. 
+
+CODEC
+Corto para comprimir/descomprimir, un codec es cualquier tecnología para comprimir y descomprimir data. Codecs pueden ser implementados en software, hardware o en la combinación de ambos. Algunos codecs para video en formato MPEG pueden ser Indeo y Cinepak. Para poder ver videos con los distintos formatos existentes, es necesario tener los codecs apropiados instalados en la computadora, ej Xvid y Divx entre otros. Para descargar en tu computadora los CODECS más recientes, gratis, www.free-codecs.com, o descargando un conjunto de codecs y tenerlos todo en una, baja el K Lite Codec Pack.
+
+Código fuente
+Conjunto de instrucciones que componen un programa, escrito en cualquier lenguaje. En inglés se dice "source code". Hay programas de código abierto y "de código cerrado" como por ejemplo Windows, Photoshop, y la mayoría de los programas comerciales, en donde el código es inaccesible y por lo tanto no se puede alterar la estructura del programa. 
+
+Computación
+Es la ciencia que estudia el procesamiento automático de datos o información por medio de las computadoras. 
+
+Computadora
+Dispositivo electrónico capaz de procesar información y ejecutar instrucciones de los programas. Una computadora (Hispanoamérica) u ordenador (España) es capaz de interpretar y ejecutar comandos programados para entrada, salida, cómputo y operaciones lógicas. 
+
+Cookie
+Un cookie es un pequeño pedazo de data enviado desde un servidor web al navegador del cliente (i.e. Internet Explorer, Firefox y Safari) que se guarda localmente en la maquina del usuario. Cuando el navegador vuelve a realizar una petición de un archivo en el mismo sitio web que mandó el cookie, el navegador envía una copia del cookie nuevamente al sitio web. Estos archivos contienen informaciones especificas que identifican al usuario y pueden tener información privada que no queremos publicar (direcciones de emails, passwords, nombres, etc.). Hay muchos sitios legítimos que necesitan los cookies para funcionar correctamente, pero también hay otros que usan la información para “rastrear” el uso que el usuario le da al Internet (ej. página visitadas). Es recomendable borrar los cookies cada cierto tiempo. 
+
+Copyleft
+Formula opuesta al copyright nacida en el ámbito del software libre (free software) mediante la cual el autor de un programa lo declara como de dominio público, incluyendo el código fuente (source code) del mismo, de forma que quien quiera puede usarlo y modificarlo. Si el programa es modificado, la persona involucrada puede ejercer sin restricción alguna su derecho de copia sobre el programa modificado. 
+
+Copyright
+Derecho de Copia. Derecho que tiene cualquier autor, sobre todas y cada una de sus obras de forma que podrá decidir en qué condiciones han de ser reproducidas y distribuidas. Aunque este derecho es legalmente irrenunciable, el mismo puede ser ejercido de forma tan restrictiva o tan generosa como el autor decida. El símbolo de este derecho es ©. 
+
+CPU
+De las siglas en inglés Central Processing Unit (Unidad Central de Procesos) -- Es la parte que constituye el cerebro de cualquier computadora, es el encargado de realizar y dirigir todas las sus funciones. Contiene memoria interna, la unidad aritmética / lógica. Realiza el procesamiento de los datos y además el control de las funciones del resto de los componentes de la computadora. Gobierna el sistema y dicta la velocidad de trabajo del mismo. Existen diferentes tipos de CPU, por ejemplo, los CPU de la familia 8086 de Intel: 80286, 80386, 80486 y Pentium, o de la marca AMD. 
+
+Cracker
+Persona que trata de introducirse a un sistema sin autorización y con la intención de realizar algún tipo de daño u obtener un beneficio. 
+
+CRM
+Customer Relationship Management. Manejo de la Relación con el Consumidor. Sistema automatizado de información sobre clientes cuyo objetivo es que estos puedan ser atendidos de la manera más personalizada posible. Internet es uno de los soportes tecnológicos más importantes en CRM, a la vez que uno de sus principales canales de comunicación con los clientes. 
+
+CRT
+Siglas en inglés para Cathode Ray Tube (Tubo de Rayos Catódicos), es un dispositivo de visualización utilizado por monitores, televisiones, etc., aunque esta siendo reemplazado rapidamente por nuevas tecnologías como plasma y LCD. 
+
+CSS
+Cascade Style Sheet. Conjunto de instrucciones HTML que definen la apariencia de uno o más elementos de un conjunto de páginas web con el objetivo de uniformizar su diseño. 
+
+
+Por la D
+
+DVB
+Digital Video Broadcast. Video Digital para Emisión. Formato de video digital que cumple los requisitos para ser considerado como Difusión (Broadcast) de forma que puede ser emitido en cualquiera de los sistemas de televisión existentes. Estándar en dispositivos de almacenamiento masivo con formato de CD pero que llega a duplicar su capacidad. 
+
+Daemon
+Aplicación UNIX que está permanentemente en estado de alerta en un servidor con el fin de realizar determinadas tareas como, por ejemplo, enviar un mensaje de correo electrónico, servir una página web o ejecutar un programa. 
+
+Data
+El nombre genérico para cualquier cosa que entre, salga o se guarde en una computadora o cualquier otro medio, siempre y cuando sea todo en formato digital. 
+
+DBMS
+Database Management System (Sistema Gestor de Bases de Datos), es un conjunto de programas que permiten la completa administración de base de datos. 
+
+Debian
+Es una distribución de Linux que esta totalmente compuesta de software gratuíto y open source. 
+
+Desarrollador de Web
+Web developer - Persona o empresa responsable de la programación de un sitio web así la cual incluye, si se da el caso, plataformas de comercio electrónico. 
+
+Descomprimir
+Acción de desempaquetar uno o más archivos que anteriormente han sido empaquetados, y habitualmente también comprimidos, en un solo archivo, con objeto de que ocupen menos espacio en disco y se precise menos tiempo para enviarlos por la red. 
+
+DHTML
+Dynamic HTML. HTML dinámico. Una extensión de HTML que permite, entre otras cosas, de la inclusión de pequeñas animaciones y menús dinámicos en páginas web. El código DHTML usa estilos y JavaScript. Permite que las páginas web puedan “reaccionar” dependiendo del usuario y su sistema, por ejemplo una pagina web que cambie su estilo dependiendo del navegador o incluso tipo de computadora de los usuarios finales. 
+
+Directorio Activo
+El Directorio Activo (Active Directory) es el servicio de directorio incluido en Windows 2000 Server y posterior. Extiende las características de las versiones anteriores de los El Directorio Activo, es un servicio de directorio patentado por Microsoft, que se encuentra integrado en la arquitectura de Windows 2000 Server y posterior. Es similar a otros servicios de directorio, como el de Novell (NDS). Es un sistema centralizado que automatiza en la red la gestión de los datos de usuario, seguridad, y recursos distribuidos; también permite la interacción con otros directorios. El Directorio Activo está diseñado especialmente para entornos de red distribuidos. 
+
+Disco duro
+Disco de metal cubierto con una superficie de grabación magnética. Haciendo una analogía con los discos musicales, los lados planos de la placa son la superficie de grabación, el brazo acústico es el brazo de acceso y la púa (aguja) es la cabeza lectora/grabadora. Los discos magnéticos pueden ser grabados, borrados y regrabados como una cinta de audio. 
+
+DivX
+Es un formato de compresión de video basado en tecnología MPEG-4. Los archivos DivX pueden ser descargados en líneas de alta velocidad en relativamente poco tiempo sin sacrificar mucho la calidad del video digital. Generalmente se usa en el Internet para compartir archivos de videos, sea de forma legal o ilegal. Se puede convertir en el equivalente para video del MP3. 
+
+DNS
+Servidor de Nombres de Dominio. Servidor automatizado utilizado en el internet cuya tares es convertir nombres fáciles de entender (como www.panamacom.com) a direcciones numéricas de IP. 
+
+DOM
+Siglas del inglés Document Object Model (Modelo de Objetos de Documento) es un API para documentos HTML y XML. Define la estructura lógica de los documentos y la forma como un documentos es accedido y manipulado. 
+
+Dominio
+Sistema de denominación de hosts en Internet el cual está formado por un conjunto de caracteres el cual identifica un sitio de la red accesible por un usuario. Los dominios van separados por un punto y jerárquicamente están organizados de derecha a izquierda. Comprenden una red de computadoras que comparten una característica común, como el estar en el mismo país, en la misma organización o en el mismo departamento. Los más comunes son .com, .edu, .net, .org, .biz, .info 
+
+DoS
+Denial Of Service (DoS), denegación de servicio, incidente en el cual un usuario o una organización se ven privados de un recurso que normalmente podrían usar. Habitualmente, la pérdida del servicio supone la indisponibilidad de un determinado servicio de red, como el correo electrónico, o la pérdida temporal de toda la conectividad y todos los servicios de red. 
+
+Driver
+Un utilitario de software diseñado para decirle a la computadora como operar los aparatos externos o periféricos. Por ejemplo, para operar un printer, escaner o disco duro externo la computadora requiere un driver específico para cada equipo. 
+
+DVD
+Digital Versatile Disc (Disco Versátil Digital), es un soporte para el almacenamiento de datos binarios de igual funcionamiento y tamaño que el CD-ROM, aunque con pistas más finas, lo cual aumenta la densidad de la información grabable en la superficie y por tanto le da una mayor capacidad de almacenamiento que el CD-ROM. Al igual que en los CD, hay distintas variantes según si sólo puede leer, leer y escribir, etc.: DVD-ROM, DVD-RAM, etc. La capacidad de un DVD va desde los 4,7 Gb (una cara, una capa) hasta los 17 Gb (doble cara, doble capa). 
+
+DVR
+Siglas del inglés Digital Video Recorder (Grabadora Digital de Video). Es un aparato que graba video o TV en formato digital. Con un DVR se puede poner pausa y retroceder a un programa de televisión en vivo por ejemplo, ya que se graba directamente a un disco duro en tiempo real.
+
+
+
+Por la E
+
+e-book
+Libro en formato digital que, en algunos casos, requiere programas específicos para su lectura. Suele aprovechar las posibilidades del hipertexto, de los enlaces y multimedia, y puede estar disponible en la red. 
+
+e-mail
+El e-mail, del inglés electronic mail (correo electrónico), es uno de los medios de comunicación de más rápido crecimiento en la historia de la humanidad. Por medio del protocolo de comunicación TCP/IP, permite el intercambio de mensajes entre las personas conectadas a la red de manera similar al correo tradicional.
+
+EDGE
+Siglas del inglés Enhanced Data Rates for GMS Evolution, EDGE es la evolución de los sistemas GSM y US-TDMA. Esta modulación incrementa significativamente la capacidad de la red y las tasas de transferencia de data, permitiendo mejores funciones multimedia en los móviles, pudiendo llegar a velocidades de transmisión de data de 473kbit/s. 
+
+Emoticon
+Símbolo gráfico el cual normalmente representa una cara feliz, triste, seria, alegre y diversas expresiones que permiten que una persona puede mostrar su estado de ánimo en un medio "frío" como es el email o la mensajeria instantánea ;) 
+
+Encriptación
+Cifrado. Tratamiento de un conjunto de datos, contenidos o no en un paquete, a fin de impedir que nadie excepto el destinatario de los mismos pueda leerlos. Hay muchos tipos de cifrado de datos, que constituyen la base de la seguridad de la red. 
+
+Eniac
+Eniac, acrónimo del inglés, Electronic Numerical Integrator And Computer, fue la primera computadora electrónica de uso general (1946). 
+
+Ergonomía
+Ciencia que trata del encaje del hombre en su entorno técnico y laboral. 
+
+Escaner
+Digitalizador. Aparato que hace posible la conversión a formato digital de cualquier documento impreso o escrito, en forma de imágen, que puede ser posteriormente enviada por email, por ejemplo. El escaner debe estar conectado a un puerto de la computadora, por ejemplo por USB. 
+
+Ethernet
+Tipo de red de área local desarrollada en forma conjunta por Xerox, Intel y Digital Equipment. Se apoya en la topología de bus; tiene ancho de banda de 10 Mbps, por lo tanto tiene una elevada velocidad de transmisión y se ha convertido en un estándar de red. 
+
+Exabyte
+Unidad de almacenamiento de información cuyo símbolo es el EB, y equivale a 1024 petabytes, o 1,152,921,504,606,846,976 bytes. 
+
+Excel
+Programa de Microsoft, el cual consiste en una hoja de cálculo, utilizada para realizar fórmulas matemáticas y cálculos aritméticos exhaustivos, o simplemente bases de datos con menos de 65mil registros. No fue el primer programa de hoja de cálculo, pero si es el más popular en la actualidad. 
+
+Extensión
+Cadena de caracteres anexada al nombre de un archivo, usualmente antecedida por un punto y al final del nombre del archivo. Son usados para que la computadora (sistema operativo) pueda reconocer fácilmente los archivos y usar los programas asociados a sus extensiones para abrirlos y manipularlos. Ejemplo, .DOC para Word, .XLS para Excel, .EXE para archivos ejecutables, etc. 
+
+Extranet
+Cuando una intranet tiene partes públicas, en donde posiblemente usuarios externos al intranet pueden llenar formularios que forman parte de procesos internos del intranet.
+
+
+Por la f
+
+Facebook
+Es uno de los primeros sitios web de redes sociales virtuales; en muy resumidas cuentas, las personas que se registran en el sitio pueden tener "amigos" y ver cualquier información que otros usuarios hayan puesto y permitan ver, buscar a otras personas con las cuales se haya perdido contacto con el tiempo, etc. 
+
+FAQ
+Siglas del inglés Frequently Asked Questions (Preguntas Frequentes), que como su nombre lo dice, es una compilación de las preguntas más frecuentes que se hacen de cualquier tema. Es común ver la palabra FAQ en los menús de los sitios web, aunque sean en español. 
+
+Favoritos
+Marcador de un sitio web. Unos exploradores dicen 'favorito', otros usan el término 'marcador'. En inglés es 'bookmark'. La mayoría de los navegadores tienen su lista de "Favoritos", donde se puede guardar las direcciones de sitios web preferidos. 
+
+Fibra óptica
+Tipo de cable que se basa en la transmisión de información por técnicas optoeléctricas mediante una combinación de vidrio y materiales plásticos. A diferencia del cable coaxial y del par trenzado no se apoya en los impulsos eléctricos, sino que transmite por medio de impulsos luminosos. Se caracteriza por un elevado ancho de banda con alta velocidad de transmisión y poca pérdida de señal. 
+
+Filtro
+En referencia a emails, los filtros son creados por los usuarios y contienen reglas para distribuir emails dentro de carpetas, reenviarlos o eliminarlos, entre otras. Por ejemplo, una regla de un filtro puede ser que todos los emails que vienen De: info@panamacom.com se vayan a la carpeta o etiqueta "importante", por ejemplo. 
+
+Firefox
+Mozilla Firefox (originalmente conocido como Phoenix y Mozilla Firebird) es un navegador de web gráfico, gratuito, de código abierto, desarrollado por la Fundación Mozilla y miles de colaboradores en el mundo. La versión 1.0 salio el 9 de noviembre de 2004. Instalable en los sistemas operativos Windows, Linux i686 y Mac Os X. 
+
+Firewall
+Combinación de hardware y software la cual separa una red de área local (LAN) en dos o mas partes con propósitos de seguridad. Su objetivo básico es asegurar que todas las comunicaciones entre dicha red e Internet se realicen conforme a las políticas de seguridad de la organización que lo instala. Además, estos sistemas suelen incorporar elementos de privacidad, autentificación, etc. 
+
+Firewire
+Un bus externo muy rápido que soporta transferencias de data de hasta 400Mbps. Firewire fue desarrollado por Apple y recae en el estándar IEEE 1394. Otras compañías siguen el IEEE 1394 pero con nombres como Lynx y I-link de Sony. 
+
+Firma digital
+Información cifrada que identifica al autor de un documento electrónico y autentica su identidad. 
+
+Flash
+Creado por Macromedia, esta tecnología permite la creación de animaciones, entre otras cosas, utilizando menos ancho de banda que otros formatos, como AVI o MPEG. 
+
+Foros de Discusión
+Servicio automatizado de mensajes, a menudo moderado por un propietario, en el cual los suscriptores reciben mensajes dejados por otros suscriptores por un tema dado. Los mensajes se envían por correo electrónico. 
+
+Frame relay
+Protocolo de enlace mediante circuito virtual permanente muy usado para dar conexión directa a Internet. Se puede recrear un frame relay usando tunneling. 
+
+Frames
+Opción que ofrece el lenguaje HTML de dividir una página web en varias zonas. Cada una de las cuales puede tener un contenido independiente de las demás de forma que cada zona es asimismo un frame. 
+
+Freeware
+Programas de Dominio Público. Aplicaciones que pueden obtenerse directamente de Internet con la característica de que no es necesario pagar por su utilización. 
+
+FSF
+Fundación para el Software Libre. Entidad que busca eliminar las restricciones de uso, copia, modificación y distribución del software. Apoya el desarrollo de sistemas operativos (Linux), compilador GNU C (GCC), PERL, etc. Promueve, desarrolla el uso del software libre en todas las áreas de la computación. Específicamente, la Fundación pone a disposición de todo el mundo un completo e integrado sistema de software llamado GNU. La mayor parte de este sistema está ya siendo utilizado y distribuido. El costo del software únicamente esta determinado por el costo del material utilizado para distribuirlo. 
+
+FTP
+File Transfer Protocol. Protocolo de transferencia de archivos. Se usan programas clientes para FTP como son por ej. (para Windows) LeapFTP o Core FTP con soporte para ssl, por mencionar algunos. Se usan programas servidores de FTP como por ej. NcFTPd. Estos programas permiten la conección entre dos computadoras, usando por lo general el puerto 21 para conectarse (aunque se puede usar otros puertos). Por medio del Protocolo de transferencia de archivos se pueden uploadear y downloadear archivos entre el cliente y el host (servidor). 
+
+
+
+Por la G
+
+
+Gateway
+Un gateway es un punto de red que actua como entrada a otra red. En el internet, un nodo o "parada" puede ser un "nodo gateway" o un "nodo host". Tanto las computadoras de los usuarios como las computadoras que sirven páginas a usuarios son "nodos host". Las computadoras que controlan el tráfico de data dentro una red local o a nivel de proveedores de internet (ISP) son "nodos gateway". Usualmente los gateways son asociados con el router y switch. 
+
+GIF
+Siglas del inglés Graphics Interchange Format, es un tipo de archivo binario que contiene imágenes comprimidas. Fue desarrollado en 1987 (GIF87) y revisado en 1989 (GIF89) por Compuserve http://www.compuserve.com (actualmente propiedad de America Online), para compartir rapidamente imágenes entre plataformas. 
+
+Gigabit
+No debe ser confundido con Gigabyte. Un gigabit es igual a 10^9 (1,000,000,000) bits, que equivalen a 125 megabytes decimales. 
+
+Gigabyte
+El gigabyte (GB) equivale a 1.024 millones de bytes, o 1024 Megabytes. Se usa comúnmente para describir el espacio disponible en un medio de almacenamiento. 
+
+GNU
+La letras GNU se refieren en inglés a No es UNIX (Not UNIX); es un sistema de programas compatible con UNIX, desarrollado por el Free Software Foundation (FSF). El proyecto GNU empezó en 1983 por Richard Stallman del Massachusetts Institute of Technology. La filosofía detrás de GNU es producir programas que no sean propietarios. Cualquiera puede descargar, modificar y redistribuir programas GNU. La única restricción es que no le pueden limitar la redistribución. Linux utiliza muchos programas GNU, y en el pasado los sistemas GNU usaban el kernel de Linux. 
+
+Google
+Buscador de páginas web en Internet (y el más popular por el momento). Introduce páginas web en su base de datos por medio de robots o crawlers (googlebot). 
+
+Gopher
+Sistema de búsqueda de información en Internet a base de menús, que permite navegar por directorios FTP y bases de datos. 
+
+GPL
+Acrónimo en inglés de General Public License (Licencia Pública General). Esta licencia regula los derechos de autor de los programas de software libre (free software) promovido por el Free Software Foundation (FSF) en el marco de la iniciativa GNU. Permite la distribución de copias de programas (e incluso cobrar por ello), así como modificar el código fuente de los mismos o utilizarlo en otros programas. 
+
+GPS
+Global Positioning System. Sistema de localización geográfica vía satélite capaz de dar la localización de una persona u objeto dotado de un transmisor-receptor GPS con una precisión mínima de 10 metros. 
+
+GSM
+Sistema Global para Comunicaciones Móviles. Sistema compatible de telefonía móvil digital desarrollado en Europa con la colaboración de operadores, Administraciones Públicas y empresas. Permite la transmisión de voz y datos. 
+
+GUI
+Ver Interfaz Gráfica de Usuario 
+
+Gusano
+Programa informático que se autoduplica y autopropaga. En contraste con los virus, los gusanos suelen estar especialmente escritos para redes. Los gusanos de redes fueron definidos por primera vez por Shoch & Hupp, de Xerox, en la revista ACM Communications (Marzo 1982). El primer gusano famoso de Internet apareció en Noviembre de 1988 y se propagó por sí solo a más de 6.000 sistemas a lo largo de Internet.
+
+
+
+
+Por la H
+
+Hacker
+Persona que tiene un conocimiento profundo acerca del funcionamiento de redes de forma que puede advertir los errores y fallas de seguridad del mismo. Al igual que un cracker busca acceder por diversas vías a los sistemas informáticos pero con fines de protagonismo. 
+
+Hardware
+Maquinaria. Componentes físicos de una computadora o de una red (a diferencia de los programas o elementos lógicos que los hacen funcionar). 
+
+Hipertexto
+Cualquier documento que contiene vínculos con otros documentos de forma que al seleccionar un vinculo se despliega automáticamente el segundo documento. 
+
+Hipervínculo
+Vínculo existente en un documento hipertexto que apunta o enlaza a otro documento que puede ser o no otro documento hipertexto. 
+
+Hoja de Estilo en Cascada
+Ver CSS 
+
+Host
+Servidor que nos provee de la información que requerimos para realizar algún procedimiento desde una aplicación cliente a la que tenemos acceso de diversas formas (ssh, FTP, www, email, etc.). Al igual que cualquier computadora conectada a Internet, debe tener una dirección o número IP y un nombre. 
+
+Hosting
+El servicio de Web Hosting consiste en el almacenamiento de datos, aplicaciones o información dentro de servidores diseñados para llevar a cabo esta tarea. Los servidores a su vez se deben colocar en edificios o estructuras denominadas data centers, con su debida planta electrica, seguridad y conectividad con los mayores proveedores de telecomunicaciones (backbones) del mundo, para poder ofrecer buen ancho de banda. 
+
+Hotspots
+Areas donde hay conexión WiFi accesible. 
+
+HTML
+Siglas del inglés Hypertext Markup Language (Lenguaje de Marcado Hipertexto). Es un lenguaje para crear documentos de hypertexto para uso en el www o intranets, por ejemplo. Los archivos de HTML son usualmente visualizados por navegadores (browsers), como Internet Explorer, Firefox y Safari, entre otros. Es independiente del sistema operativo de la computadora. 
+
+HTTP
+En inglés Hypertext Transfer Protocol. Protocolo de Transferencia de Hipertexto. HTTP es un protocolo con la ligereza y velocidad necesaria para distribuir y manejar sistemas de información hipermedia. HTTP ha sido usado por los servidores World Wide Web desde su inicio en 1993. 
+
+HTTPS
+Creado por Netscape Communications Corporation para designar documentos que llegan desde un servidor web seguro. Esta seguridad es dada por el protocolo SSL (Secure Socket Layer) basado en la tecnología de encriptación y autenticación desarrollada por RSA Data Security Inc. 
+
+Hub
+El punto central de conexión para un grupo de nodos; útil para la administración centralizada, la capacidad de aislar nodos de problemas y ampliar la cobertura de una LAN.
+
+
+
+
+Por la I
+
+ICMP
+Internet Control Message Protocol. Protocolo de Control de Mensajes Internet. Es una extensión del IP (Internet Protocol) definida por RFC 792. Permite la generación de mensajes de error, paquetes de prueba e información relacionados a un IP. Un ejemplo es el comando "ping" que usa ICMP. 
+
+IDE
+Integrated/Intelligent Drive Electronics. Es una especificación ATA. Es la interface de disco mas comun para discuo duros, CD ROMS, etc. Es facil de usar, pero tambien tiene muchas limitaciones. El IDE esta integrado a la tarjeta madre. El adaptador del computador central controla hasta dos unidades IDE, pero los adaptadores avanzados y los adaptadores IDE ampliados controlan hasta cuatro, maximo. Una alternativa es SCSI, que es más rapido, más complicado y permite conectar más unidades. 
+
+IEEE
+Siglas en ingles para Institute of Electrical and Electronics Engineers, organización profesional internacional sin fines de lucro, para el avance de la tecnología relacionada a la electricidad. Tiene la mayor cantidad de miembros que cualquier otra organización profesional técnica en el mundo, con más de 365,000 miembros en cerca de 150 países. IEEE es una de las organizaciones líderes en el mundo creando estándares. 
+
+IEEE 1394
+La interfaz IEEE 1394 es un estandar de bus serial para comunicaciones de alta velocidad y transferencia que se usa en computadoras, audio y video digital. La interfaz es conocida como FireWire por Apple y i.Link por Sony. 
+
+IIS
+Microsoft Internet Information Services. Servicios de Información de Internet de Microsoft. IIS es un conjunto de servicios basados en Internet, para maquinas con Windows. Originalmente se proporcionaba como opcional en Windows NT, pero posteriormente fue integrado a Windows 2000 y Windows Server 2003. Incluye servidores para FTP, SMTP, NNTP y HTTP/HTTPS. Compite con Apache en el area de servidores web. 
+
+IMAP
+IMAP es un acrónimo del inglés Internet Message Access Protocol (Protocolo de Acceso a Mensajes de Internet). Diseñado con el fin de permitir la manipulación de buzones remotos como si fueran locales, IMAP requiere de un servidor que haga las funciones de oficina de correos pero en lugar de leer todo el buzón y borrarlo, solicita sólo los encabezados de cada mensaje. 
+
+Intel
+El fabricante líder de microprocesadores para PC. Los procesadores Intel fueron usados en las primeras computadoras que incorporaban el sistema operativo DOS de Microsoft. Su línea de procesadores Pentium incremento los niveles de desempeño de las computadoras a niveles superiores. Intel también fabrica tarjetas madre (motherboards), procesadores de red y un sin fin de circuitos procesadores que están pavimentando el futuro de la computación personal. 
+
+Interface
+Interfaz o interface es el punto de conexión ya sea dos componentes de hardware, dos programas o entre un usuario y un programa. 
+
+Interfaz Gráfica de Usuario
+En inglés Graphic User Interface, corto como GUI. Componente de una aplicación informática que el usuario visualiza y a través de la cual opera con ella. Está formada por ventanas, botones, menús e iconos, entre otros elementos. Ejemplo, Windows y X window. 
+
+Internet
+Una red mundial, de redes de computadoras. Es una interconexión de redes grandes y chicas alrededor del mundo. El Internet empezó en 1962 como una red para los militares llamada ARPANet, para que en sus comunicaciones no existan “puntos de falla”. Con el tiempo fue creciendo hasta convertirse en lo que es hoy en día, una herramienta de comunicación con decenas de miles de redes de computadoras unidas por el protocolo TCP/IP. Sobre esta red se pueden utilizar multiples servicios como por ejemplo emails, WWW, etc. que usen TCP/IP. 
+
+Internet Explorer
+Conocido también como IE es el browser web de Microsoft, creado en 1995 para Windows y mucho después para Mac. No fue el primero en el mercado y Netscape le sacó la delantera por muchos años, pero la penetración de Windows en el mercado es muy fuerte 
+
+Intranet
+Red privada dentro de una compañía u organización que utiliza el navegador favorito de cada usuario, en su computadora, para ver menus con opciones desde cumpleaños del personal, calendario de citas, mensajería instantánea privada, repositorio de archivos y las normativas de la empresa entre otras. Es como si fuera un sitio web dentro de la empresa. Al usar los browser de internet como Internet Explorer, Firefox o Safari el intranet se convierte en multiplataforma. 
+
+IP
+Internet Protocol, Protocolo de Internet. Conjunto de reglas que regulan la transmisión de paquetes de datos a través de Internet. El IP es la dirección numérica de una computadora en Internet de forma que cada dirección electrónica se asigna a una computadora conectada a Internet y por lo tanto es única. La dirección IP esta compuesta de cuatro octetos como por ejemplo, 132.248.53.10 
+
+IRC
+De las siglas en inglés Internet Relay Chat, creado por Jarkko Oikarinen en agosto de 1988, es un sistema de chat de texto donde existen centenares de redes y canales para unirse y chatear, pasarse archivos, etc. Para usar IRC se necesita de un programa especial, por ejemplo mIRC. 
+
+IRTF
+Siglas en inglés de Internet Research Task Force (Grupo de Tareas de Investigación sobre Internet). Organismo de la Sociedad Internet compuesto por diversos grupos que trabajan sobre temas relacionados con los protocolos, la arquitectura y las aplicaciones de Internet. 
+
+ISDN
+Integrated Services Digital Network. Red Digital de Servicios Integrados. Servicio mediante el cual las líneas telefónicas pueden transportar señales digitales en lugar de señales analógicas, aumentando considerablemente la velocidad de transferencia de datos a la computadora. ISDN combina servicios de voz y digitales a través de la red en un solo medio, haciendo posible ofrecer a los clientes servicios digitales de datos así como conexiones de voz a través de un solo "cable". 
+
+ISO
+International Standards Organization es una red de institutos nacionales de estándares constituido por 157 países, un miembro por país, con un secretariado central en Geneva, Suiza, en donde se coordina todo el sistema. Es el desarrollador y publicador de Estándares Internacionales más grande del mundo. 
+
+ISP
+Internet Service Provider. Proveedor de Servicio Internet. Empresa que provee la conexión de computadoras a Internet, ya sea por líneas dedicadas broadband o dial-up. 
+
+IT
+Del ingles Information Technology (Tecnología de Información). Término muy general que se refiere al campo entero de la tecnología informática - que incluye hardware de computadoras y programación hasta administración de redes. La mayoría de las empresas medianas y grandes tienen departamentos de IT (TI en español).
+
+
+
+Por la J
+
+J2ME
+Java 2 Micro Edition. Versión Sun Microsystems de Java 2 destinada a dispositivos de recursos limitados como PDAs, teléfonos móviles, sistemas electrónicos para vehículos, hornos microondas de última generación con interfaz de interacción con el usuario y otros, requiriendo tan sólo un mínimo de 128 Kb de RAM. Así, esta plataforma Java está destinada a procesadores mucho menos potentes que los utilizados habitualmente como PCs. 
+
+Java
+Lenguaje de programación que permite ejecutar programas escritos en un lenguaje muy parecido al C++. Se diferencia de un CGI ya que la ejecución es completamente realizada en la computadora cliente, en lugar del servidor. Java fue originalmente desarrollado por Sun Microsystems y su principal objetivo fue crear un lenguaje que fuera capaz de ser ejecutado de una forma segura a través de Internet. 
+
+JavaScript
+Lenguaje desarrollado por Netscape y aunque es parecido a Java se diferencia de él en que los programas están incorporados en el archivo HTML. 
+
+JDK
+Java Development Kit (Equipo para el desarrollo de Java). Un equipo básico para el desarrollo de software provisto por Sun Microsystems, que incluye las herramientas básicas necesarias para escribir, probar, y depurar aplicaciones y applets de Java. 
+
+JPEG, JPG
+Los datos de una imagen pueden ser grabados en diferentes formatos. El jpg es, sin duda, el formato más popular. Su gran ventaja es ser un formato comprimido, lo que le permite ocupar poquísimo espacio en la memoria de la cámara o ser enviado con rapidez por internet. Su inconveniente es que esta compresión se hace simplificando la información gráfica de la imagen tanto de color como de detalle. Si la compresión es muy alta la degradación en la calidad de la imagen se hace evidente a simple vista. Si la compresión es baja solo se apreciará con grandes ampliaciones. Además, cada vez que se guarda la imagen se reprocesa y recomprime, con la consiguiente acumulación de degradaciones. A pesar de todo es el formato más utilizado 
+
+JSP
+Siglas de Java Server Pages o Páginas de servidor de Java, es la tecnología para generar páginas web de forma dinámica en el servidor, desarrollado por Sun Microsystems, basado en scripts que utilizan una variante del lenguaje java para construir páginas HTML en servidores.
+
+
+
+Por la K
+
+Kbps
+Kilobits por segundo. Unidad de medida que comúnmente se usa para medir la velocidad de transmisión por una línea de telecomunicación, como la velocidad de un cable modem por ejemplo. 
+
+KBps
+KiloBytes por segundo. 
+
+KDE
+K Desktop Environment ambiente gráfico de XWindows para Linux. 
+
+Kernel
+El kernel (en ingles) es el centro esencial de un sistema operativo, el nucleo que proporciona servicios basicos para todas las partes del sistema operativo. El kernel contrasta con el "shell", la parte exterior del sistema operativo que interactúa con el usuario por medio de comandos. 
+
+Key
+Serie de signos previamente convenidos que sirven como clave o fórmula para transmitir mensaje secretos o privados. 
+
+Keyboard
+Ver Teclado 
+
+Keyword
+Clave de búsqueda o palabra clave. Indispensables cuando se busca una información dentro de algún buscador o cuando queremos registrar una página en uno de ellos. 
+
+Kilobit
+Su abreviatura es Kb. Aproximadamente mil bits (exactamente 1024). Se usa generalmente para referirse a velocidades de transmisión de datos. 
+
+Kilobyte
+Unidad de medida equivalente a 1024 (dos elevado a la 10) bytes. Se usa frecuentemente para referirse a la capacidad de almacenamiento o tamaño de un archivo.
+
+
+
+
+
+Por la L
+
+LAN
+Local Area Network. Red de área local. Red de computadoras personales ubicadas dentro de un área geográfica limitada que se compone de servidores, estaciones de trabajo, sistemas operativos de redes y un enlace encargado de distribuir las comunicaciones. 
+
+Laptop
+Ordenador portátil que pesa aproximadamente dos o tres kilogramos. Existen distintos modelos, desde las notebooks comunes hasta las multimedia (dotadas de parlantes, lectora de CD-ROMs, monitor color, etc.). 
+
+LCD
+Liquid Crystal Display. Monitor de Cristal Líquido. Los cristales líquidos se activan por campos eléctricos para producir la imágen del monitor. 
+
+LDAP
+LDAP son las siglas de "Protocolo de Acceso Ligero a Directorio", este protocolo de acceso a un directorio desciende de DAP, este último accedía a un directorio pero siempre sobre la pila OSI (X.500) de modo que resultaba mas lenta y perdía eficiencia. LDAP surge en 1993 en la Universidad de Michigan LDAP define una serie de operaciones para la consulta del protocolo y, el método de hacer y obtener los datos de estas consultas o actualizaciones por red. Soporta autenticación con la librería SASL y el protocolo SSL (Secure Socket Layer) en su versión LDAPv3 de modo que se garantiza la seguridad del tráfico de red. 
+
+Ley de Moore
+En 1965 Gordon Moore, co-fundador de Intel, afirmó que el número de transistores por pulgada en circuitos integrados se duplicaba cada año. La tecnología tenía futuro. Posteriormente modificó su propia ley al afirmar que el ritmo bajaría, y la densidad de los datos se doblarían aproximadamente cada 18 meses (un crecimiento exponencial: doblar la capacidad de los microprocesadores cada año y medio). Se estima que esta ley sea valida durante dos decadas mas aproximadamente, cuando no se puedan crear microprocesadores mas pequeños por limitaciones fisicas de los materiales usados para crearlos. Para ese entonces lo más probable es que podamos usar cristales para guardar información, por ejemplo. 
+
+Libro electrónico
+Ver e-book. 
+
+Link
+Vínculo. 
+
+Linux
+Versión de libre distribución del sistema operativo UNIX el cual tiene todas las características que se pueden esperar de un moderno y flexible UNIX. Incluye multitasking (multi tarea), memoria virtual, librerías compartidas, dirección y manejo propio de memoria y TCP/IP. [más] 
+
+Lista de Correo
+Mailing List. Listado de direcciones electrónicas utilizado para distribuir mensajes a un grupo de personas y generalmente se utiliza para discutir acerca de un determinado tema. Una lista de distribución puede ser abierta o cerrada y puede tener o no un moderador. Si es abierta significa que cualquiera puede suscribirse a ella; si tiene un moderador los mensajes enviados a la lista por cualquier suscriptor pasan primero por aquel, quien decidirá si distribuirlos o no a los demás suscriptores. 
+
+Log Files
+Registro de todos los hits que un servidor ha recibido en un período de tiempo dado el cual puede ser utilizado por auditores externos para registrar el uso del sitio. 
+
+Login
+Clave de acceso que se le asigna a un usuario con el propósito de que pueda utilizar los recursos de una computadora. El login define al usuario y lo identifica dentro de Internet junto con la dirección electrónica de la computadora que utiliza. 
+
+
+
+Por la M
+
+Mac address
+Siglas del inglés Media Access Control. Es una dirección que usualmente esta compuesta por números y letras asignado a los equipos que forman parte de una red, que es único e identifica su lugar dentro de la red. El comite de IEEE asigna bloques de direcciones a los fabricantes de tarjetas de red. De esta forma se asegura que no existan dos tarjetas de red con el mismo Mac address. 
+
+Mail
+Programa en ambiente UNIX para la edición lectura y respuesta de emails. 
+
+Malware
+Cualquier programa cuyo objetivo sea causar daños a computadoras, sistemas o redes y, por extensión, a sus usuarios. 
+
+Mapa de Imagen
+Gráfico en la web que actúa como un hotspot enlazando las diferentes áreas de contenido cuando se hace click sobre las distintas partes de la imagen. 
+
+Maximizar
+En entornos gráficos de ventanas, como lo es Windows o Mac OS X por ejemplo, se dice maximizar para referirse a ampliar una ventana hasta su tamaño máximo 
+
+Mbps
+Megabits por Segundo. Unidad de medida de la capacidad de transmisión por una línea de telecomunicación donde cada megabit está formado por 1.048.576 bits. 
+
+Megabyte
+El Megabyte (MB) equivale a un millon de bytes, o mil kilobytes (exactamente 1,048,576 bytes). Ver Byte. 
+
+Memoria EDO
+Memoria Extendida de Salida de Datos. La memoria EDO permite que el CPU obtenga acceso a la memoria de diez a quince por ciento más rápido que con los chips de memoria RAM convencionales. 
+
+Mensajería instantánea
+Instant Messaging (IM), en inglés, es un sistema de intercambio de mensajes entre personas, escritos en tiempo real a través de redes. Por ejemplo MSN Messenger, AIM, Google Talk entre otros, son programas y redes de mensajería instantánea. También existen programas que se pueden usar para tener mensajeria privada en una red local (por ejemplo en una empresa), y celulares inteligentes, como Blackberry, que tiene su propia red de IM que es usada por los usuarios de Blackberry, sin costo. 
+
+Meta-tags
+Son invisibles para el usuario, pero le indican a los buscadores algunos detalles sobre la página web donde estan ubicados. Hay varios meta-tags, entre ellos los más usados: "keyword", en donde se pueden enumerar distintas palabras claves que tienen que ver con el sitio web; "description", en donde se describe en resúmen el contenido de la pagina web. No tienen la misma importancia para los buscadores como antes (los 90's), pero siguen siendo usados. 
+
+MHz
+Unidad de frecuencia que equivale a un millón de ciclos por segundo. 
+
+Microprocesador
+Microchip. Circuito integrado en un soporte de silicón el cual está formado por transistores y otros elementos electrónicos miniaturizados. Es uno de los elementos esenciales de una computadora. Ver Pentium o AMD. 
+
+Microsoft
+Fundada en 1975 por Bill Gates, entre otros. Responsable de los sistemas operativos Windows XP y Vista, del grupo de programas Office (Word, Excel, Powerpoint), de los controles Active X, del navegador Internet Explorer entre muchos otros programas. Ver más en www.microsoft.com 
+
+MIDI
+En inglés Musical Instrument Digital Interface. Interfaz Digital de Instrumento Musical. Estandar de especificaciones que permiten que cualquier sintetizador, drum machine, etc. de cualquier fabricante se hablen entre ellos y con las computadoras. 
+
+Migración
+Es el acto de preservar la integridad de la data al transferirla a través de configuraciones distintas de hardware, software y siguientes generaciones de tecnología computacional. 
+
+MIME
+Siglas de Multipurpose Internet Mail Extension. Sistema que permite integrar dentro de un mensaje de correo electrónico ficheros binarios (imágenes, sonido, programas ejecutables, etc.). 
+
+Minimizar
+En entornos graficos de ventanas, como lo es Windows o Mac OS X por ejemplo, se dice minimizar para referirse a cuando una ventana se reduce (pero no se cierra) a un icono. 
+
+MIPS
+Siglas del inglés Million Instructions Per Second, que en español se traduce a Un Millón de Instrucciones por Segundo. 
+
+mIRC
+Cliente shareware para Windows 95/98/ME/NT/2k/XP/Vista de IRC, creado en 1995 y desarrollado por Khaled Mardam-Bey. http://www.mirc.com/ 
+
+Mirror
+Espejo. Para hacer referencia a un ftp, disco duro, página web o cualquier otro recurso cuyo contenido es una copia exacta de otro. Estos mirrors son automáticos y en una frecuencia determinada procurando tener una copia exacta del lugar al que le hacen mirror. 
+
+Mirroring
+La duplicación de data para propósitos de backup o para distribuir el trafico de la red entre varias computadoras con la misma data. 
+
+Modelo Cliente-Servidor
+Sistema que se apoya en terminales (clientes) conectadas a una computadora que los provee de un recurso (servidor). De esta manera los clientes son los elementos que necesitan servicios del recurso y el servidor es la entidad que lo posee. Los clientes, sin embargo, no dependen totalmente del servidor debido a que pueden realizar los procesamientos para desplegar la información (por ejemplo en forma gráfica). El servidor los provee únicamente de la información sin hacerse cargo de otros procesos de forma que el tráfico en la red se ve aligerado y las comunicaciones entre las computadoras se realizan más rápido. 
+
+Modem
+Equipo que permites conectar computadoras por medio de una llamada telefónica, mediante procesos denominados modulación (para transmitir información) y demodulación (para recibir información). El modem ha ido cayendo en desuso, reemplazado por tecnologías más modernas que permiten mayores velocidades que 56K. 
+
+Monitor
+El monitor o pantalla es un periferico de salida que muestra los resultados de los procesamientos, usualmente de forma gráfica, de una computadora. Hay monitores de LCD y CRT. 
+
+Mosaic
+Fue el primer navegador para el WWW para los ambientes Macintosh, UNIX y Windows desarrollado por la NCSA. 
+
+Motherboard
+Ver Tarjeta Madre. 
+
+Mouse
+Ver Ratón 
+
+MP3
+Estándar MPEG derivado de compresión solamente de audio (MPEG-1, capa 3). Muy eficaz, es capaz de ofrecer gran calidad con una relación de compresión de 12 a 1. 
+
+MPEG
+Acrónimo del inglés Moving Picture Experts Group. Grupo de Expertos en Imágenes en Movimiento. Sistema de compresión de vídeo que permite la codificación digital de imágenes en movimiento, y su extensión es mpg. 
+
+MPEG-4
+MPEG-4 es un algoritmo de compresión de videos y gráficas, basado en la tecnología MPEG-1, MPEG-2 y Apple Quick Time. Los archivos MPEG-4 basados en 'wavelet' son mas chicos que JPEG o Quicktime, por lo tanto son usados para transmitir video e imagenes con menos ancho de banda, pueden mezclar video con texto, graficas, y capas de animación 2D y 3D. El formato MPEG-4 se estandarizo en Octubre de 1998 en el documento ISO/IEC #14496, y es el utilizado por la ipod video. 
+
+MRU
+Acrónimo en ingles de Most Recently Used. Usados Más Recientes. En computación en un término que se refiere a la lista de programas o documentos que fueron accedidos de último en una computadora. 
+
+MS-DOS
+Sistema operativo DOS, de Microsoft. Su entorno es de texto, tipo consola, y no gráfico. Sigue siendo parte importante de los sistemas operativos gráficos de Windows. 
+
+Multidifusión
+Método de difusión de información en vivo que permite que ésta pueda ser recibida por múltiples nodos de la red y, por lo tanto, por múltiples usuarios. 
+
+Multimedia
+Información digitalizada que combina texto, gráficos, video y audio. 
+
+MySQL
+My SQL es uno de los Sistemas Gestores de Bases de Datos más populares. Su ingeniosa arquitectura lo hace extremadamente rápido y fácil de personalizar. La extensiva reutilización del código dentro del software y una aproximación minimalística para producir características altamente funcionales, ha dado lugar a un sistema de administración de base de datos de alta velocidad, compactación, estabilidad y facilidad de despliegue. La exclusiva separación del core server del manejador de tablas, permite funcionar a MyQSL bajo control estricto de transacciones o con acceso a disco no transaccional ultrarrápido. Lo mantiene la empresa sueca MySql AB bajo la licencia GPL (GNU Public License); puede utilizarse gratuitamente y su código fuente está disponible.

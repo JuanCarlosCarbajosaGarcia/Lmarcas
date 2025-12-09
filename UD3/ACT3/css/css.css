@@ -1,0 +1,34 @@
+#menuhorizontal {
+    width: 400px;
+    border: 3px solid gray;
+    margin-left: 220px;
+}
+#menuhorizontal a {
+padding: 0px 25px 0px;
+text-decoration: none;
+color: black;
+background: #f4f4f4;
+}
+#menuhorizontal a:hover,
+#menuhorizontal a:active { background: #58fa58;}
+#menuhorizontal a:visited { color:black; }
+
+#menuvertical {
+    width: 200px;
+    border: 3px solid gray;
+    float: left;
+}
+#menuvertical a {
+    padding: 0px 25px 0px;
+    text-decoration: none;
+    display: block;
+    color: black;
+    background: #f4f4f4;
+}
+#menuvertical a:hover,
+#menuvertical a:active { background: #58fa58;}
+#menuvertical a:visited { color:black; }
+h3 {
+    margin-left: 220px;
+    color: blue;
+}

@@ -1,0 +1,25 @@
+ul {
+    padding: 5px;
+    margin: 0;
+    position:fixed;
+    left:20px;
+    top:100px;
+    width:160px;
+    list-style:none;
+    background: #f5a9f2;
+}
+li a {
+    padding:.2em 0 .2em 1.5em;
+    display: block;
+    text-decoration: none;
+    background: #f4f4f4;
+}
+li {
+    border-top: 2px solid #ffffff;
+}
+li a:hover, li a:active {
+    background: f3f781;
+}
+li a:visited {
+    color:black;
+}

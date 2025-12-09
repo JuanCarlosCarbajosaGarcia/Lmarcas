@@ -1,0 +1,20 @@
+caption{
+    caption-side: bottom;
+}
+table{
+    table-layout: auto;
+    border: 1;
+    border-color: black;
+    padding: 5;
+    border-style: solid;
+    float: inline-start;
+    text-align: left;
+}
+td{
+    border-style: inset;
+    text-align: center;
+}
+th{
+    border-style: inset;
+    text-align: center;
+}
