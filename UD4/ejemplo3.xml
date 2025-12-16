@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<!DOCTYPE libro SYSTEM "libro3.dtd"[
+<!ELEMENT libro (titulo, autor, contenido)>
+<!ELEMENT titulo (#PCDATA)>
+<!ELEMENT autor (#PCDATA)>
+<!ELEMENT contenido ANY>
+]>
+<libro>
+<titulo>El Quijote</titulo>
+<autor>Miguel de Cervantes</autor>
+<contenido>
+<capitulo>
+<titulo>Capítulo 1</titulo>
+<texto>En un lugar de la Mancha...</texto>
+</capitulo>
+<nota>Esta es una nota adicional.</nota>
+</contenido>
+</libro>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<!DOCTYPE libro[
+<!ELEMENT libro (titulo, autor, resumen?, capitulo+, nota*)>
+<!ELEMENT titulo (#PCDATA)>
+<!ELEMENT autor (#PCDATA)>
+<!ELEMENT resumen (#PCDATA)>
+<!ELEMENT capitulo (titulo, texto)>
+<!ELEMENT nota (#PCDATA)>
+<!ELEMENT texto (#PCDATA)>
+]>
+<libro>
+    <titulo>El viaje de Pedro</titulo>
+    <autor>Alfonso</autor>
+    <resumen>Trata sobre Pedro en un viaje para curar a su madre</resumen>
+    <capitulo>
+        <titulo>El Elixir morado</titulo>
+        <texto>Tras llegar a la fuente de la eterna salud ...</texto>
+    </capitulo>
+    <nota>no es mucho pero es algo</nota>
+</libro>
