@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Matricula>
+    <alumno>
+        <DNI>10937582A</DNI>
+        <Nombre>Eduardo Gonzalez García</Nombre>
+        <DNI>78392053A</DNI>
+        <Nombre>Elena Rodrigez Pérez</Nombre>
+        <DNI>67392863B</DNI>
+        <Nombre>Cesar Gonzalez Sánchez</Nombre>
+        <DNI>73902451B</DNI>
+        <Nombre>Enrique Suárez Molina</Nombre>
+        <DNI>68902134C</DNI>
+        <Nombre>Aaron Quiroga Vázquez</Nombre>
+    </alumno>
+    <asignatura>
+        <Código>1</Código>
+        <Nombre>Lengua</Nombre>
+        <Código>2</Código>
+        <Nombre>Matemáticas</Nombre>
+        <Código>3</Código>
+        <Nombre>Historia</Nombre>
+        <Código>4</Código>
+        <Nombre>Inglés</Nombre>
+        <Código>5</Código>
+        <Nombre>Informática</Nombre>
+    </asignatura>
+</Matricula>

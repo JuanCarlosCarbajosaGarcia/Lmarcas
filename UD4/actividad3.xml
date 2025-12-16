@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<literatura>
+    <autor>Stephen King
+        <titulo>Después del anochecer
+            <subcategoria>Cuentos
+                <categoria>Narrativa</categoria>
+            </subcategoria>
+        </titulo>
+        <titulo>El hombre del traje negro
+            <subcategoria>Cuentos
+                <categoria>Narrativa</categoria>
+            </subcategoria>
+        </titulo>
+    </autor>
+    <autor>Hermanos Grimm
+        <titulo>Hansel y Gretel
+            <subcategoria>Cuentos
+                <categoria>Narrativa</categoria>
+            </subcategoria>
+        </titulo>
+        <titulo>La Cenicienta
+            <subcategoria>Cuentos
+                <categoria>Narrativa</categoria>
+            </subcategoria>
+        </titulo>
+    </autor>
+    <autor>Dostoyevski
+        <titulo>El pequeño héroe
+            <subcategoria>Cuentos
+                <categoria>Narrativa</categoria>
+            </subcategoria>
+        </titulo>
+        <titulo>Un ladrón honesto
+            <subcategoria>Cuentos
+                <categoria>Narrativa</categoria>
+            </subcategoria>
+        </titulo>
+    </autor>
+    <autor>Esopo
+        <titulo>El león enamorado
+            <subcategoria>Fábulas
+                <categoria>Narrativa</categoria>
+            </subcategoria>
+        </titulo>
+        <titulo>El ratón de ciudad y el raton de campo
+            <subcategoria>Fábulas
+                <categoria>Narrativa</categoria>
+            </subcategoria>
+        </titulo>
+    </autor>
+</literatura>

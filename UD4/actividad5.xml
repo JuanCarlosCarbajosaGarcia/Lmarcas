@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Tiket>
+    <Codigo></Codigo>
+    <Fecha></Fecha>
+    <formaPago>
+        <PAGO_Efectivo>
+            <PrecioSinIVA></PrecioSinIVA>
+            <CantidadIVA></CantidadIVA>
+            <PVPtotal></PVPtotal>
+            <Moneda></Moneda>
+        </PAGO_Efectivo>
+        <PAGO_Targeta>
+            <TipoTarjeta></TipoTarjeta>
+            <numero_magico>************(ultimos cuatro digitos)</numero_magico>
+        </PAGO_Targeta>
+    </formaPago>
+    <NombreCliente></NombreCliente>
+    <DatosComercio>
+        <NombreComercio></NombreComercio>
+        <Direcion></Direcion>
+        <CIF></CIF>
+        <Telefono></Telefono>
+    </DatosComercio>
+    <DatosCompra>
+        <NombreArticulo></NombreArticulo>
+        <CantidadArticulo></CantidadArticulo>
+        <PrecioUnitario></PrecioUnitario>
+        <IVA></IVA>
+        <PVP></PVP>
+    </DatosCompra>
+</Tiket>

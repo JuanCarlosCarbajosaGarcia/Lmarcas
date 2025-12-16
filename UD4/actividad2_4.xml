@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<figura>
+    <triangulo base="7" altura="5"></triangulo>
+    <triangulo base="2" altura="6"></triangulo>
+    <triangulo base="3" altura="3"></triangulo>
+</figura>
+
+
+<?xml version="1.0" encoding="UTF-8"?>
+<deportistas>
+<deportista>
+    <deporte>Atletismo</deporte>
+        <nombre>Jesse Owens</nombre>
+</deportista>
+<deportista>
+    <deporte>Natación</deporte>
+        <nombre>Mark Spitz</nombre>
+</deportista>
+</deportistas>
