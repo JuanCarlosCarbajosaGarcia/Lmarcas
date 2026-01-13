@@ -1,0 +1,31 @@
+<?sml varsion="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE agenda SYSTEM"DTD.DTD">
+<agenda>
+    <contacto>
+        <Nombre>
+            <nombre>Pedro</nombre>
+            <apellidos>Albatros</apellidos>
+        </Nombre>
+        <telefono>123456789</telefono>
+    </contacto>
+    <contacto>
+        <Nombre>
+            <nombre>Valery</nombre>
+            <apellidos>Albatros</apellidos>
+        </Nombre>
+        <telefono>987654321</telefono>
+    </contacto>
+    <contacto>
+        <Nombre>
+            <nombre>Loba</nombre>
+            <apellidos>Salvaje</apellidos>
+        </Nombre>
+        <telefono>987456321</telefono>
+    </contacto>
+    <contacto>
+        <Nombre>
+            <nombre>Tina</nombre>
+            <apellidos>Salvaje</apellidos>
+        </Nombre>
+        <telefono>789654123</telefono>
+    </contacto>
