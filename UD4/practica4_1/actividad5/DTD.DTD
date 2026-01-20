@@ -1,0 +1,31 @@
+<!ELEMENT viaje(Tiket)>
+<!ELEMENT Tiket(Codigo,Fecha,formaPago,NombreCliente,DatosComercio,DatosCompra)>
+<!ELEMENT formaPago(PAGO_Efectivo,PAGO_Targeta)>
+<!ELEMENT PAGO_Efectivo(PrecioSinIVA,CantidadIVA,PVPtotal,Moneda)>
+<!ELEMENT PAGO_Targeta(TipoTarjeta,numero_magico)>
+<!ELEMENT DatosComercio(NombreComercio,Direcion,CIF,Telefono)>
+<!ELEMENT DatosCompra(NombreArticulo,CantidadArticulo,PrecioUnitario,IVA,PVP)>
+
+<!ELEMENT Codigo(#PCDATA)>
+<!ELEMENT Fecha(#PCDATA)>
+
+<!ELEMENT PrecioSinIVA(#PCDATA)>
+<!ELEMENT CantidadIVA(#PCDATA)>
+<!ELEMENT PVPtotal(#PCDATA)>
+<!ELEMENT Moneda(#PCDATA)>
+
+<!ELEMENT TipoTarjeta(#PCDATA)>
+<!ELEMENT numero_magico(#PCDATA)>
+
+<!ELEMENT NombreCliente(#PCDATA)>
+
+<!ELEMENT NombreComercio(#PCDATA)>
+<!ELEMENT Direcion(#PCDATA)>
+<!ELEMENT CIF(#PCDATA)>
+<!ELEMENT Telefono(#PCDATA)>
+
+<!ELEMENT NombreArticulo(#PCDATA)>
+<!ELEMENT CantidadArticulo(#PCDATA)>
+<!ELEMENT PrecioUnitario(#PCDATA)>
+<!ELEMENT IVA(#PCDATA)>
+<!ELEMENT PVP(#PCDATA)>

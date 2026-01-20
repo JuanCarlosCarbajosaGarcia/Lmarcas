@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE CV SYSTEM "DTD.DTD">
+<curriculo>
+    <DatosPersonales>
+        <nombre></nombre>
+        <apellidos></apellidos>
+        <fechaYlugarN></fechaYlugarN>
+        <nacionalidad>(es)</nacionalidad>
+        <NIF></NIF>
+        <Foto></Foto>
+    </DatosPersonales>
+    
+    <DatosContacto>
+        <paginaWeb></paginaWeb>
+        <RedesSociales></RedesSociales>
+    </DatosContacto>
+
+    <Formacion>
+        <NombreF></NombreF>
+        <lugarF></lugarF>
+        <FechainiYfin></FechainiYfin>
+    </Formacion>
+
+    <idiomas>
+        <NombreI></NombreI>
+        <NivelI>
+            <ExpresionOral></ExpresionOral>
+            <ComprensionOral></ComprensionOral>
+            <ExpresionEscrita></ExpresionEscrita>
+            <ComprensionEscrita></ComprensionEscrita>
+        </NivelI>
+        <EsMaterno></EsMaterno>
+    </idiomas>
+
+    <ExperienciaLaboral>
+        <LugarExL></LugarExL>
+        <PuestoEXL></PuestoEXL>
+        <FechainiYfinEXL></FechainiYfinEXL>
+    </ExperienciaLaboral>
+
+    <Competencias>
+        <NombreC></NombreC>
+        <NivelC></NivelC>
+    </Competencias>
+
+    <DatosAdicionales>
+        <Aficiones></Aficiones>
+        <DisponibilidadParaViajar></DisponibilidadParaViajar>
+        <VehiculoPropio></VehiculoPropio>
+        <licencia></licencia>
+        <etc></etc>
+    </DatosAdicionales>
+</curriculo>

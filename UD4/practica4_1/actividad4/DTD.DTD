@@ -1,0 +1,7 @@
+<!ELEMENT Datos (Matricula)>
+<!ELEMENT Matricula (alumno, asignatura)>
+<!ELEMENT alumno(DNI, Nombre)>
+<!ELEMENT asignatura(Código, Nombre)>
+<!ELEMENT DNI (#PCDATA)>
+<!ELEMENT Nombre (#PCDATA)>
+<!ELEMENT Código (#PCDATA)>

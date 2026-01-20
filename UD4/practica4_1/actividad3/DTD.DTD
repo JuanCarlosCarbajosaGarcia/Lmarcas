@@ -1,0 +1,6 @@
+<!ELEMENT libreria (literatura)>
+<!ELEMENT literatura (autor)>
+<!ELEMENT autor (titulo, subcategoria, categoria, #PCDATA)>
+<!ELEMENT titulo (#PCDATA)>
+<!ELEMENT subcategoria (#PCDATA)>
+<!ELEMENT categoria (#PCDATA)>

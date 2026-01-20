@@ -1,0 +1,44 @@
+<!ELEMENT CV(curriculo)>
+<!ELEMENT curriculo(DatosPersonales,DatosContacto,Formacion,idiomas,ExperienciaLaboral,Competencias,DatosAdicionales)>
+<!ELEMENT DatosPersonales(nombre,apellidos,fechaYlugarN,nacionalidad,NIF,Foto)>
+<!ELEMENT DatosContacto(paginaWeb,RedesSociales)>
+<!ELEMENT Formacion(NombreF,lugarF,FechainiYfin)>
+<!ELEMENT idiomas(NombreI,NivelI,EsMaterno)>
+<!ELEMENT NivelI(ExpresionOral,ComprensionOral,ExpresionEscrita,ComprensionEscrita)>
+<!ELEMENT ExperienciaLaboral(LugarExL,PuestoEXL,FechainiYfinEXL)>
+<!ELEMENT Competencias(NombreC,NivelC)>
+<!ELEMENT DatosAdicionales(Aficiones,DisponibilidadParaViajar,VehiculoPropio,licencia,etc)>
+
+<!ELEMENT nombre(#PCDATA)>
+<!ELEMENT apellidos(#PCDATA)>
+<!ELEMENT fechaYlugarN(#PCDATA)>
+<!ELEMENT nacionalidad(#PCDATA)>
+<!ELEMENT NIF(#PCDATA)>
+<!ELEMENT Foto(#PCDATA)>
+
+<!ELEMENT paginaWeb(#PCDATA)>
+<!ELEMENT RedesSociales(#PCDATA)>
+
+<!ELEMENT NombreF(#PCDATA)>
+<!ELEMENT lugarF(#PCDATA)>
+<!ELEMENT FechainiYfin(#PCDATA)>
+
+<!ELEMENT NombreI(#PCDATA)>
+<!ELEMENT ExpresionOral(#PCDATA)>
+<!ELEMENT ComprensionOral(#PCDATA)>
+<!ELEMENT ExpresionEscrita(#PCDATA)>
+<!ELEMENT ComprensionEscrita(#PCDATA)>
+<!ELEMENT EsMaterno(#PCDATA)>
+
+<!ELEMENT LugarExL(#PCDATA)>
+<!ELEMENT PuestoEXL(#PCDATA)>
+<!ELEMENT FechainiYfinEXL(#PCDATA)>
+
+<!ELEMENT NombreC(#PCDATA)>
+<!ELEMENT NivelC(#PCDATA)>
+
+<!ELEMENT Aficiones(#PCDATA)>
+<!ELEMENT DisponibilidadParaViajar(#PCDATA)>
+<!ELEMENT VehiculoPropio(#PCDATA)>
+<!ELEMENT licencia(#PCDATA)>
+<!ELEMENT etc(#PCDATA)>
