@@ -1,0 +1,10 @@
+<xs:schema xml:xs="http://www.w3.org/2001/XMLSchema">
+    <xs:simpleType name="FormaPago">
+        <xs:restricction base="xs:token">
+            <xs:enumeracion value="ES"/>
+            <xs:enumeracion value="PR"/>
+            <xs:enumeracion value="FR"/>
+            <xs:enumeracion value="AN"/>
+        </xs:restricction>
+    </xs:simpleType>
+</xs:schema>

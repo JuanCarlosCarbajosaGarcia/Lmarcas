@@ -1,0 +1,10 @@
+<xs:schema xml:xs="http://www.w3.org/2001/XMLSchema">
+    <xs:simpleType name="FormaPago">
+        <xs:restricction base="xs:string">
+            <xs:enumeracion value="VISA"/>
+            <xs:enumeracion value="MasterCard"/>
+            <xs:enumeracion value="American Express"/>
+            <xs:enumeracion value="Efectivo"/>
+        </xs:restricction>
+    </xs:simpleType>
+</xs:schema>

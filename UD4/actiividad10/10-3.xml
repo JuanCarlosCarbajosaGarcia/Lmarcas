@@ -1,0 +1,8 @@
+<xs:schema xml:xs="http://www.w3.org/2001/XMLSchema">
+    <xs:simpleType name="salario">
+        <xs:restricction base="xs:decimal">
+            <xs:totalDigits value="7"/>
+            <xs:fraccionDigits value="2"/>
+        </xs:restricction>
+    </xs:simpleType>
+</xs:schema>

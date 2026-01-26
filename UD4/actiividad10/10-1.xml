@@ -1,0 +1,9 @@
+<xs:schema xml:xs="http://www.w3.org/2001/XMLSchema">
+    <xs:simpleType name="temp">
+        <xs:restricction base="xs:decimal">
+            <xs:minOccurs value="-75"/>
+            <xs:maxOccurs value="75"/>
+            <xs:fraccionDigits value="0"/>
+        </xs:restricction>
+    </xs:simpleType>
+</xs:schema>

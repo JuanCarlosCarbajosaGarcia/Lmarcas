@@ -1,0 +1,7 @@
+<xs:schema xml:xs="http://www.w3.org/2001/XMLSchema">
+    <xs:simpleType name="twitter">
+        <xs:restricction base="xs:string">
+            <xs:maxlength value="140"/>
+        </xs:restricction>
+    </xs:simpleType>
+</xs:schema>
