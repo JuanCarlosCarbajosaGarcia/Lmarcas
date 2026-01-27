@@ -1,0 +1,46 @@
+<xs:schema xml:xs="http://www.w3.org/2001/XMLSchema">
+    <xs:simpleType name="Libreria">
+        <xs:restricction base="xs:string">
+            <xs:enumeracion value="Libro">
+                <xs:enumeracion value="ISBN"/>
+                <xs:enumeracion value="Titulo"/>
+                <xs:enumeracion value="Autor">
+                    <xs:enumeracion value="Nombre"/>
+                    <xs:enumeracion value="ID"/>
+                </xs:enumeracion>
+            </xs:enumeracion>
+        </xs:restricction>
+    </xs:simpleType>
+
+    <xs:element name="Titulo">
+        <xs:simpleType>
+            <xs:restriction base="xs:string">
+                <xs:pattern value="[0-20]"/>
+            </xs:restriction>
+        </xs:simpleType>
+    </xs:element>
+
+    <xs:element name="ISBN">
+        <xs:simpleType>
+            <xs:restricction base="xs:integer">
+                <xs:minInclusive value="0"/>
+                <xs:maxInclusive value="13"/>
+            </xs:restriction>
+        </xs:simpleType>
+    </xs:element>
+
+    <xs:element name="Nombre">
+        <xs:simpleType>
+            <xs:restriction base="xs:string">
+                <xs:pattern value="[0-20]"/>
+            </xs:restriction>
+        </xs:simpleType>
+    </xs:element>
+
+    <xs:element name="ID">
+        <xs:simpleType>
+            </xs:restriction base="xs:ID">
+        </xs:simpleType>
+    </xs:element>
+    
+</xs:schema>

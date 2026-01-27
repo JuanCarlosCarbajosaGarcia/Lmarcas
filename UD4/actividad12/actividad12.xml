@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<actividad12 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="actividad12/xsd.xsd">
+<Libreria>
+    <Libro>
+        <Titulo>------</Titulo>
+        <ISBN>------</ISBN>
+        <Autor>------</Autor>
+    </Libro>
+    <Autor>
+        <Nombre>------</Nombre>
+        <ID>------</ID>
+    </Autor>
+</Libreria>
+</actividad12>
