@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<actividad13 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="actividad13.xsd">
+<Tienda>
+    <Producto>
+        </nombre>
+        </codigo>
+        </precio>
+        </categoria>
+    </Producto>
+    <categoria>
+        <Nombre>------</Nombre>
+        <ID>------</ID>
+    </categoria>
+</Tienda>
+</actividad13>

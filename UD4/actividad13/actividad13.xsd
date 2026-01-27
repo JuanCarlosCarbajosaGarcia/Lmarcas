@@ -1,0 +1,56 @@
+<xs:schema xml:xs="http://www.w3.org/2001/XMLSchema">
+    <xs:simpleType name="Tienda">
+        <xs:restricction base="xs:string">
+            <xs:enumeracion value="Producto">
+                <xs:enumeracion value="nombre"/>
+                <xs:enumeracion value="codigo"/>
+                <xs:enumeracion value="precio"/>
+                <xs:enumeracion value="categoria">
+                    <xs:enumeracion value="Nombre"/>
+                    <xs:enumeracion value="ID"/>
+                </xs:enumeracion>
+            </xs:enumeracion>
+        </xs:restricction>
+    </xs:simpleType>
+
+    <xs:element name="nombre">
+        <xs:simpleType>
+            <xs:restriction base="xs:string">
+                <xs:pattern value="[0-20]"/>
+            </xs:restriction>
+        </xs:simpleType>
+    </xs:element>
+
+    <xs:element name="codigo">
+        <xs:simpleType>
+            <xs:restriction base="xs:integer">
+                <xs:minInclusive value="0"/>
+                <xs:maxInclusive value="10"/>
+            </xs:restriction>
+        </xs:simpleType>
+    </xs:element>
+
+    <xs:element name="precio">
+        <xs:simpleType>
+            <xs:restricction base="xs:float">
+                <xs:minInclusive value="0"/>
+                <xs:maxInclusive value="5"/>
+            </xs:restriction>
+        </xs:simpleType>
+    </xs:element>
+
+    <xs:element name="Nombre">
+        <xs:simpleType>
+            <xs:restriction base="xs:string">
+                <xs:pattern value="[0-20]"/>
+            </xs:restriction>
+        </xs:simpleType>
+    </xs:element>
+
+    <xs:element name="ID">
+        <xs:simpleType>
+            </xs:restriction base="xs:ID">
+        </xs:simpleType>
+    </xs:element>
+    
+</xs:schema>
