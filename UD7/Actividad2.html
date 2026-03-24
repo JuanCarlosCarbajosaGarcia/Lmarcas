@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+	<title>juan carlos carbajosa garcia</title>
+	<meta charset="utf8">
+</head>
+<body>
+	<h2>Codificador</h2>
+
+    <input type="number" id="numero" placeholder="Introduce un numero entre 10 y 99">
+    <button onclick="Codificador()">Codificar</button>
+
+    <script>
+        function Codificador(){
+            const numero = parseInt(document.getElementById("numero").value);
+            const resul = document.getElementById("resultado");
+
+            const letras = ["C","E","N","T","R","I","F","U","G","A"]
+
+            if(10 <= numero <= 99){
+                const decen = Math.floor(numero/10);
+                const unid = numero %10;
+
+                const codigo = letras(decen) + letras(unid);
+                resul.textContent = "codigo resultante: " + codigo;
+            }else{
+                resul.textContent = "Introducca un numero comprendido entre 10 y 99"
+            }
+        }
+    </script>
+</body>
+</html>
