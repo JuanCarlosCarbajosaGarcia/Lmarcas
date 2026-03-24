@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+	<title>juan carlos carbajosa garcia</title>
+	<meta charset="utf8">
+</head>
+<body>
+    <h2>año bisiesto</h2>
+
+        <input type="number" id="numero" placeholder="Introduce un año">
+        <button onclick="calcular()">descubrir</button>
+
+        <p id="respuesta"></p>
+    <script>
+        function calcular(){
+            const numero = parseInt(document.getElementById("numero").value);
+            const año = numero
+            const resul = document.getElementById("respuesta");
+            
+            if(año%4){
+                resul.textContent = "el año: " + año + " no es bisiesto";
+            }else if (año%100){
+                resul.textContent = "el año: " + año + " es bisiesto";
+            }else if (año/400){
+                resul.textContent = "el año: " + año + " es bisiesto";
+            }else{
+                resul.textContent = "el año: " + año + " no es bisiesto";
+            }
+        }
+    </script>
+</body>
+</html>

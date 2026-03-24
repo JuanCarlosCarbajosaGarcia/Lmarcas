@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+	<title>juan carlos carbajosa garcia</title>
+	<meta charset="utf8">
+</head>
+    <body>
+        <h2>operador ternario par o impar</h2>
+
+        <input type="number" id="numero" placeholder="Introduce un numero">
+        <button onclick="calcular()">descubrir</button>
+
+        <p id="respuesta"></p>
+        <script>
+            function calcular(){
+                const numero = parseInt(document.getElementById("numero").value);
+                var parimpar = numero
+                const resul = document.getElementById("respuesta");
+
+                if(parimpar%2){
+                    resul.textContent = "el numero: " + parimpar + " es impar";
+                }else{
+                    resul.textContent = "el numero: " + parimpar + " es par";
+                }
+            }
+        </script>
+    </body>
+</html>
