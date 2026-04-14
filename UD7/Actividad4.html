@@ -19,9 +19,10 @@
             
             if(año%4){
                 resul.textContent = "el año: " + año + " no es bisiesto";
-            }else if (año%100){
-                resul.textContent = "el año: " + año + " es bisiesto";
             }else if (año/400){
+                resul.textContent = "el año: " + año + " es bisiesto";
+            
+            }else if (año%100){
                 resul.textContent = "el año: " + año + " es bisiesto";
             }else{
                 resul.textContent = "el año: " + año + " no es bisiesto";
