@@ -1,19 +1,26 @@
 <!DOCTYPE html>
 <html lang="es">
     <head>
-        <title>juan carlos carbajosa garcia</title>
-        <!--title representa el titulo que tendra la pagina en el navegador-->
-        <!--todo aquello que este en el body se mostrara en la pagina-->
-        <!--h1 permite poner un encabezado en la pagina-->
-        <meta charset="utf8">
-    </head>
+            <title>juan carlos carbajosa garcia</title>
+            <!--title representa el titulo que tendra la pagina en el navegador-->
+            <!--todo aquello que este en el body se mostrara en la pagina-->
+            <!--h1 permite poner un encabezado en la pagina-->
+            <meta charset="utf8">
+        </head>
     <body>
-        <h1>formularios 4</h1>
-
+        <h1>Formulario 4</h1>
+    
         <script>
             let params = new URLSearchParams(window.location.search);
-
-            
+                document.write('<p> Colores: '+ params.get("Colores")+ '!!!</p>');
+                document.write('<p> Color: '+ params.get("Color") + '</p>');
+                document.write('<p> Params: '+ params + '</p>');
+    
         </script>
+        <form method="get">
+        <textarea cols=20 rows=10 name="Texto"></textarea>
+        <br/><br/>
+        <input type="submit"><input type="reset">
+        </form>
     </body>
 </html>
