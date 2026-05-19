@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="es">
+    <head>
+        <title>juan carlos carbajosa garcia</title>
+        <!--title representa el titulo que tendra la pagina en el navegador-->
+        <!--todo aquello que este en el body se mostrara en la pagina-->
+        <!--h1 permite poner un encabezado en la pagina-->
+        <meta charset="utf8">
+    </head>
+    <body>
+        <h1>Formularios 2</h1>
+        
+        <script>
+            let params = new URLSearchParams(window.location.search);
+            let nombre = params.get("nombre");
+            let apellidos = params.get("apellidos")
+            if (nombre){
+                document.write('<p> Hola ' + nombre + '!!!</p>');
+            }
+            if (apellidos){
+                document.write('<p> Hola ' + apellidos + '!!!</p>');
+            }
+        </script>
+
+        <form action="formulario3.html" method="get">
+            <label>texto:</label><input type="text" name="nombre"><br>
+            <label>password:</label><input type="password" name="contraseña"><br>
+            <label>sexo:</label><br>
+                <input type="radio" name="boton1">Hombre<br>
+                <input type="radio" name="boton1">Mujer<br>
+                <input type="radio" name="boton1" checked>prefiero no decirlo<br>
+            <label>vehiculo:</label>
+                <input type="checkbox" name="moto" value="si">moto
+                <input type="checkbox" name="coche" value="si">coche
+                <br><br>
+            <input type="submit"><input type="reset">
+        </form>
+    </body>
+</html>

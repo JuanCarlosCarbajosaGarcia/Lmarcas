@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="es">
+    <head>
+        <title>juan carlos carbajosa garcia</title>
+        <!--title representa el titulo que tendra la pagina en el navegador-->
+        <!--todo aquello que este en el body se mostrara en la pagina-->
+        <!--h1 permite poner un encabezado en la pagina-->
+        <meta charset="utf8">
+    </head>
+    <body>
+        <h1>formularios 3</h1>
+
+        <script>
+            let params = new URLSearchParams(window.location.search);
+
+            document.write('<p>Nombre: ' + params.get("nombre") + '</p>');
+            document.write('<p>Contraseña: ' + params.get("contraseña") + '</p>');
+            document.write('<p>Sexo: ' + params.get("boton1") + '</p>');
+            document.write('<p>Moto: ' + params.get("moto") + '</p>');
+            document.write('<p>Coche: ' + params.get("coche") + '</p>');
+        </script>
+
+        <form action="formulario4.html" method="get">
+            <select name="colores" multiple>
+                <option value="r">Rojo</option>
+                <option value="g" selected>Verde</option>
+                <option value="b">Azul</option>
+            </select>
+            <br><br>
+            <select name="color" size="1">
+                <option value="r">Rojo</option>
+                <option value="g">Verde</option>
+                <option value="b" selected>Azul</option>
+            </select>
+            <br><br>
+            <input type="submit"><input type="reset">
+        </form>
+    </body>
+</html>
